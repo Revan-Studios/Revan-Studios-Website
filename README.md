@@ -4,6 +4,6 @@ coverY: 0
 
 # Welcome!
 
-## Welcome aboard!
+## Welcome to Revan Studios!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Welcome to the Revan Studios! Here you'll find everything you need to know about the owner and Revan Studios!

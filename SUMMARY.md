@@ -2,7 +2,10 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## Misc
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Owner!](the-company/meet-the-owner.md)
+* [Meet the Owner!](misc/meet-the-owner.md)
+
+## Main
+
+* [Revan Studios Projects](main/revan-studios-projects.md)
