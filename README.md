@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/Revan Logo jpeg.jpg
 coverY: 0
 ---
 
