@@ -2,13 +2,11 @@
 
 * [Welcome!](README.md)
 
-## THE FUN STUFF
+## Main
 
-* [What is Revan?](the-fun-stuff/what-is-revan.md)
-* [Meet the Owner!](the-fun-stuff/meet-the-owner.md)
+* [Revan Studios Projects](main/revan-studios-projects.md)
+* [Contact us!](main/contact-us.md)
 
-## The Formal Stuff
+## Misc
 
-* [FAQ](the-formal-stuff/faq.md)
-* [Privacy Policy](the-formal-stuff/privacy-policy.md)
-* [Terms and Services](the-formal-stuff/terms-and-services.md)
+* [Meet the Owner!](misc/meet-the-owner.md)
