@@ -10,7 +10,7 @@ To get full suport for the Revan bot, do join the [support server](https://disco
 
 ## **How can I use Revan?** <a href="#how-can-i-use-raven" id="how-can-i-use-raven"></a>
 
-It's very simple! Just invite the bot into your server. After that, write "/help" in order to open a menu where you can browse every command Revan has to offer, including explanations and examples.
+It's very simple! Just invite the bot into your server. After that, write "!help" in order to open a menu where you can browse every command Revan has to offer, including explanations and examples.
 
 ## **What permissions does Revan require in order to work properly?** <a href="#what-permissions-does-raven-require-in-order-to-work-properly" id="what-permissions-does-raven-require-in-order-to-work-properly"></a>
 
