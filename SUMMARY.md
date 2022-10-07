@@ -12,4 +12,4 @@
 * [FAQ](the-formal-stuff/faq.md)
 * [Privacy Policy](the-formal-stuff/privacy-policy.md)
 * [Terms and Services for Kirin](the-formal-stuff/terms-and-services-for-kirin.md)
-* [Terms and Services for Revan Bot](the-formal-stuff/terms-and-services-for-revan-bot.md)
+* [Copy of Terms and Services](the-formal-stuff/copy-of-terms-and-services.md)
