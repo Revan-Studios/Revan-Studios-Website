@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Logoda.png
 coverY: 0
 ---
 
-# Terms and Services
+# Terms and Services for Revan Bot
 
 ### Revan
 
